@@ -70,8 +70,7 @@ paginate: true
 
 ## Como o FIWARE pode se integrar com outras tecnologias emergentes.
 
-- O FIWARE é uma plataforma de código aberto que facilita a integração com várias tecnologias emergentes, oferecendo uma arquitetura baseada em APIs padronizadas. Veja como ele pode se integrar com diferentes tecnologias:
-
+- O FIWARE é uma plataforma de código aberto que facilita a integração com várias tecnologias emergentes, oferecendo uma arquitetura baseada em APIs padronizadas.
 
 ---
 
